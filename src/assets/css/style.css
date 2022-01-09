@@ -1,0 +1,10 @@
+
+.wrapper {
+  display: flex;
+}
+
+.main-project {
+  width: 50%;
+  height: 50%;
+  margin: 50px auto;
+}
